@@ -13,6 +13,7 @@
         "Debuggers"
     ],
     "activationEvents": [
+        "onLanguage:lua",
         "onDebug"
     ],
     "keywords": [
@@ -1246,5 +1247,13 @@
         "smart-buffer": "^4.0.1",
         "vscode-languageclient": "9.0.1",
         "concat-map": "0.0.2"
-    }
+    },
+    "bundledDependencies": [
+        "@vscode/debugadapter",
+        "@vscode/debugprotocol",
+        "iconv-lite",
+        "smart-buffer",
+        "vscode-languageclient",
+        "concat-map"
+    ]
 }
