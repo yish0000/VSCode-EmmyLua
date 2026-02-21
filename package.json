@@ -1,10 +1,10 @@
 {
-    "name": "emmylua",
-    "displayName": "EmmyLua",
-    "description": "EmmyLua for vscode",
+    "name": "emmylua-rhea",
+    "displayName": "EmmyLuaRhea",
+    "description": "EmmyLua for vscode - Rhea Custom Build",
     "version": "0.9.29",
     "icon": "res/icon.png",
-    "publisher": "tangzx",
+    "publisher": "novaserene",
     "engines": {
         "vscode": "^1.89.0"
     },
